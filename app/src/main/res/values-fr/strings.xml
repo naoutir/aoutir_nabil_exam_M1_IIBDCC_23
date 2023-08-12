@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IP Geolocalisation</string>
+    <string name="title_activity_maps">carte</string>
+    <string name="region">région</string>
+    <string name="show_map">afficher la carte</string>
+    <string name="username">nom d\'utilisateur</string>
+    <string name="password">mot de passe</string>
+    <string name="wrong_password">mot de passe incorrect</string>
+    <string name="user_not_found">utilisateur non trouvé</string>
+    <string name="welcome">bienvenu</string>
+    <string name="login">s\'identifier</string>
+</resources>
